@@ -1,0 +1,10 @@
+URxvt*font:           xft:monospace:size=13
+
+URxvt*foreground: #03fccf
+URxvt*depth: 32
+URxvt*background: #000000
+
+URxvt.transparent:   true
+URxvt.shading:       50
+
+URxvt*scrollBar: false
